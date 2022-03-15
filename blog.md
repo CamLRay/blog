@@ -5,7 +5,7 @@
 Welcome to my blog!, here I'll tell you about my day.
 
 ## To-Do List
-
+```
 * Make breakfast
 * Make Coffee
 * Work in class
@@ -14,7 +14,7 @@ Welcome to my blog!, here I'll tell you about my day.
 * work on blog
 * finish class
 * Sand blast metal
-
+```
 ## Food's I've eaten today
 
 1. Toast
